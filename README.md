@@ -1,0 +1,2 @@
+# 2020_Introduction_to_Mathematical_Modeling
+Course Assignment of Introduction_to_Mathematical_Modeling_2020 in BUAA 
